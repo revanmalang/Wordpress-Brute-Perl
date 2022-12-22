@@ -1,0 +1,7 @@
+perl brute-perl.pl http://target.com admin wordlist.txt
+
+nah admin itu bisa diganti usernya :v 
+contohnya username adminnya itu adalah ifan 
+ya kalian masukkan ifan :) 
+
+www.familyattackcyber.blogspot.co.id
